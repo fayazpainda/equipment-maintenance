@@ -5,6 +5,8 @@
 
 *This project was created by Omar. Repository hosted by a classmate only to share a viewable link.*
 
+### 🌐 Live interactive demo (no install, works in China): **https://fayazpainda.github.io/equipment-maintenance/**
+
 An AI-powered Jupyter Notebook application that monitors industrial equipment sensor data in real time, scores risk levels, detects anomalies, visualizes trends, and generates plain-English maintenance recommendations — before failures happen.
 
 > ✅ **Runs fully offline — no API key, no internet required.** The recommendation engine uses a built-in maintenance expert system by default, so the notebook works **anywhere in the world (including mainland China)** and during an offline presentation. Using **Claude (LLM)** is an optional upgrade (see Section 5).
