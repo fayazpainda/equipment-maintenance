@@ -1,6 +1,9 @@
 # 🔧 Equipment Maintenance Intelligent Decision System
 
 > **Knowledge Engineering Final Project — Master's Program**
+> **Author: Omar**
+
+*This project was created by Omar. Repository hosted by a classmate only to share a viewable link.*
 
 An AI-powered Jupyter Notebook application that monitors industrial equipment sensor data in real time, scores risk levels, detects anomalies, visualizes trends, and generates plain-English maintenance recommendations — before failures happen.
 
